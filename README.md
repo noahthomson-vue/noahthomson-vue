@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @noahthomson-vue
+- 👋 Hi, I’m Noah Thomson
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning high technology.
-- 📫 How to reach me noahthomson
-- 😄 Pronouns: Developer
+- 🌱 I’m currently learning AI, Blockchain.
+- 📫 noahthomson422@gmail.com
+- 😄 Pronouns: Senior Developer
 - ⚡ Fun fact: Reading
 
 <!---
