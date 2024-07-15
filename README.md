@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Noah Thomson
+- 👋 Hi, I’m Noah.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning AI, Blockchain.
 - 📫 noahthomson422@gmail.com
